@@ -1,2 +1,1 @@
-# selfbot
-idk
+Thanks for using Tyro. 
